@@ -148,8 +148,8 @@ disableHugoGeneratorInject = false
   #
   [params.portrait]
     path     = "/img/output-onlinepngtools.png"
-    alt      = "Portrait"
-    maxWidth = "50px"
+    #alt      = "Portrait"
+    #maxWidth = "50px"
 
   # Social icons
   [[params.social]]
