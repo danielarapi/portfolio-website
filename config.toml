@@ -146,10 +146,11 @@ disableHugoGeneratorInject = false
 
   # Uncomment this if you want a portrait on your start page
   #
-  #[params.portrait]
-  #  path     = "/img/image.jpg"
-  #  alt      = "Portrait"
-  #  maxWidth = "50px"
+  [params.portrait]
+    path     = "/img/image.jpg"
+    #path     = "themes/hello-friend-ng/images/screenshot.png"
+    alt      = "Portrait"
+    maxWidth = "50px"
 
   # Social icons
   [[params.social]]
