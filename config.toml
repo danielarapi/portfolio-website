@@ -202,4 +202,4 @@ disableHugoGeneratorInject = false
   [[menu.main]]
     identifier = "quick_links"
     name       = "Quick Links"
-    url        = "quick_links/"
+    url        = "quick_links"
