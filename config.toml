@@ -168,7 +168,7 @@ disableHugoGeneratorInject = false
 
   [[params.social]]
     name = "linkedin"
-    url  = "https://www.linkedin.com/danielarapi"
+    url  = "https://www.linkedin.com/"
 
   [[params.social]]
     name = "stackoverflow"
@@ -185,7 +185,6 @@ disableHugoGeneratorInject = false
     subtitle  = "Hello Friend NG Theme"
     weight    = 2
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-    copyright = "Arapi Consulting LLC"
 
 [menu]
   [[menu.main]]
@@ -196,4 +195,3 @@ disableHugoGeneratorInject = false
     identifier = "posts"
     name       = "Posts"
     url        = "posts/"
-
