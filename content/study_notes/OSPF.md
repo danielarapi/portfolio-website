@@ -4,9 +4,8 @@ date: 2021-08-21T03:18:45-04:00
 draft: false
 author: "Daniel Arapi"
 language: "English"
-tags: ["hugo", "web", "study_notes"]
-categories: ["web-development"]
-moods: ["happy", "upbeat"]
+tags: ["OSPF", "LSDB", "study_notes", "LSA", "OSPFv3"]
+categories: ["OSPF", "Cisco", "networking"]
 ---
 
 
