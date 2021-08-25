@@ -1,3 +1,16 @@
+---
+title: "BGP"
+date: 2021-08-21T03:18:45-04:00
+draft: false
+author: "Daniel Arapi"
+language: "English"
+tags: ["hugo", "web", "study_notes"]
+categories: ["web-development"]
+moods: ["happy", "upbeat"]
+---
+
+
+
 <a id="topofpage"></a>
 
 # BGP (Border Gateway Protocol)
