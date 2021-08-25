@@ -196,3 +196,8 @@ disableHugoGeneratorInject = false
     identifier = "study-notes"
     name       = "Study Notes"
     url        = "study-notes/"
+
+  [[menu.main]]
+    identifier = "blog"
+    name       = "Blog"
+    url        = "blog/"
