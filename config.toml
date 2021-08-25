@@ -45,7 +45,6 @@ disableHugoGeneratorInject = false
 [taxonomies]
   tag      = "tags"
   category = "categories"
-  series   = "series"
 
 [params]
   dateform        = "Jan 2, 2006"
@@ -80,6 +79,7 @@ disableHugoGeneratorInject = false
   # Per default, this option is off.
   # The theme is respecting the prefers-color-scheme of the operating systeme.
   # With this option on, the page user is able to set the scheme he wants.
+  #
   enableThemeToggle = true
 
   # Sharing buttons
@@ -102,7 +102,7 @@ disableHugoGeneratorInject = false
 
   # Custom footer
   # If you want, you can easily override the default footer with your own content.
-
+  #
   [params.footer]
     trademark = true
     rss = true
@@ -192,20 +192,7 @@ disableHugoGeneratorInject = false
     weight    = 2
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
-[menu]
   [[menu.main]]
-    identifier = "about"
-    name       = "About"
-    url        = "about/"
-  [[menu.main]]
-    identifier = "posts"
-    name       = "Posts"
-    url        = "posts/"
-  [[menu.main]]
-    identifier = "study_notes"
+    identifier = "study-notes"
     name       = "Study Notes"
-    url        = "study_notes/"
-  [[menu.main]]
-    identifier = "quick_links"
-    name       = "Quick Links"
-    url        = "quick_links"
+    url        = "study-notes/"

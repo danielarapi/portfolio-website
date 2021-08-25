@@ -5,7 +5,6 @@ draft: false
 author: "Daniel Arapi"
 language: "English"
 tags: ["hugo", "web", "study-notes"]
-categories: ["web-development"]
 ---
 
 ## Setting up Tools
