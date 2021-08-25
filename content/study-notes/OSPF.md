@@ -1,11 +1,10 @@
 ---
 title: "OSPF"
-date: 2021-08-21T03:18:45-04:00
+date: 2021-24-21T03:18:45-04:00
 draft: false
 author: "Daniel Arapi"
 language: "English"
-tags: ["OSPF", "LSDB", "study_notes", "LSA", "OSPFv3"]
-categories: ["OSPF", "Cisco", "networking"]
+tags: ["study-notes", "ospf"]
 ---
 
 

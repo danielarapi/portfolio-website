@@ -1,11 +1,10 @@
 ---
 title: "BGP"
-date: 2021-08-21T03:18:45-04:00
+date: 2021-08-24T03:18:45-04:00
 draft: false
 author: "Daniel Arapi"
 language: "English"
-tags: ["BGP", "iBGP", "study_notes", "BGP Path Selection", "Route Summarization"]
-categories: ["Networking", "BGP"]
+tags: ["study-notes", "bgp"]
 ---
 
 
