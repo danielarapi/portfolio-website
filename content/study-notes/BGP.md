@@ -11,8 +11,6 @@ tags: ["study-notes", "bgp"]
 
 <a id="topofpage"></a>
 
-# BGP (Border Gateway Protocol)
-
 ---
 
 # Table of Contents
