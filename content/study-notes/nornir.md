@@ -35,6 +35,7 @@ touch config.yaml, groups.yaml, hosts.yaml, defaults.yaml, runbook1.py
 pip install --upgrade pip  
 python3 -m pip install nornir nornir-utils nornir_scrapli nornir_netmiko nornir_napalm
 python3 -m pip install python-gnupg
+python3 -m pip install scrapli[genie]
 pip freeze  
 ```
 
@@ -92,4 +93,8 @@ gpg --symmetric -o file_name.gpg file_name.txt
 ---
 
 # Sturcutred Data with Genie
+
+```
+python3 -m pip install scrapli[genie]
+```
 
