@@ -1,5 +1,5 @@
 ---
-title: "ospf notes"
+title: "OSPF Theory"
 date: 2021-08-21T03:18:45-04:00
 draft: false
 author: "Daniel Arapi"
@@ -8,7 +8,6 @@ tags: ["study-notes", "bgp", "route-reflectors", "ibgp"]
 ---
 
 <a id="topofpage"></a>
-# OSPF Theory
 
 ## Table of Contents
 
