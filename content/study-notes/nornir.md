@@ -1,4 +1,11 @@
-## Setting up Nornir
+---
+title: "Network Automation with Nornir"
+date: 2021-08-24T03:18:45-04:00
+draft: false
+author: "Daniel Arapi"
+language: "English"
+tags: ["study-notes", "nornir", "automation", "nornir-scrapli", "nornir-napalm", "nornir-netmiko", "netbox"]
+---
 
 
 **Create a python 3 virtual environment with venv**  
@@ -67,3 +74,10 @@ python3 -m pip install nornir_napalm
 ```
 
 ---
+
+```
+nr = InitNornir(config_file="config.yaml")
+nr.inventory.groups
+nr.inventory.hosts
+```
+
