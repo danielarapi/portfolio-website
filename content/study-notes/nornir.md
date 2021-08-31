@@ -33,9 +33,7 @@ touch config.yaml, groups.yaml, hosts.yaml, defaults.yaml, runbook1.py
 - ***Note:*** Do this inside the virtual environment
 ```
 pip install --upgrade pip  
-python3 -m pip install nornir nornir-utils nornir_scrapli nornir_netmiko nornir_napalm
-python3 -m pip install python-gnupg
-python3 -m pip install scrapli[genie]
+python3 -m pip install nornir nornir-utils nornir_scrapli nornir_netmiko nornir_napalm python-gnupg scrapli[genie] ipdb
 pip freeze  
 ```
 
